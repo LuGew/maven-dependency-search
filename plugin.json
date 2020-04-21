@@ -1,0 +1,20 @@
+{
+  "pluginName":"依赖搜索",
+  "description": "maven repository search",
+  "version": "0.0.1",
+  "author": "开发者",
+  "homepage": "https://www.lugew.com",
+  "logo": "mvn.png",
+  "preload":"preload.js",
+
+  "features": [
+    {
+      "code": "mvn",
+      "explain": "mvn",
+      "cmds":[
+        "mvn","依赖"
+      ]
+    }
+  ]
+
+}
